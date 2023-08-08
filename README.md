@@ -1,16 +1,11 @@
-# xylophone
+# Xylophone
 
-A new Flutter project.
+an app to imitate a xylophone in Flutter
 
-## Getting Started
+## screenshot
+![xylophone](https://github.com/merihcavdar/xylophone/assets/84540989/ab1469d7-3419-49d8-a034-42129570af8e)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## features 
+- Column, mainaxisalignment usage
+- 3rd party package usage for playing offline .wav files in assets called "auidofileplayer"
+- Extracting widgets for refactoring
